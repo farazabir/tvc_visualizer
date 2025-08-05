@@ -1,6 +1,6 @@
 # Thrust Vector Control (TVC) Visualizer
 
-![TVC Visualizer Demo](demo.gif)
+![TVC Visualizer Demo](/gif/tvc.gif)
 
 A real-time 3D visualization tool for rocket thrust vector control systems. Connects to a flight computer via serial to display orientation (pitch/roll), servo positions, and stability metrics.
 
@@ -18,9 +18,6 @@ A real-time 3D visualization tool for rocket thrust vector control systems. Conn
 - Flight computer with serial output
 - USB serial connection
 - TVC system with X/Y servo control
-
-#UI 
-![TVC Visualizer Demo](/gif/tvc.gif)
 
 ## Software Requirements
 
