@@ -1,4 +1,3 @@
-```markdown
 # Thrust Vector Control (TVC) Visualizer
 
 ![TVC Visualizer Demo](demo.gif)
