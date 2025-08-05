@@ -19,6 +19,9 @@ A real-time 3D visualization tool for rocket thrust vector control systems. Conn
 - USB serial connection
 - TVC system with X/Y servo control
 
+#UI 
+![TVC Visualizer Demo](/gif/tvc.gif)
+
 ## Software Requirements
 
 - Java 8 or higher
